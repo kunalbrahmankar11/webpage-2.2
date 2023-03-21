@@ -1,0 +1,15 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.header{
+    height: 90vh;
+    width: 100%;
+    color: white;
+    background: linear-gradient(to right,rgba(0,0,0,0.9),rgba(0,0,0,0.5)) ,url(https://images.pexels.com/photos/3802510/pexels-photo-3802510.jpeg);
+    background-position: center;
+    background-size: cover;
+}
+.btn{
+    border-radius: 10rem !important;
+    padding: 1.25rem,2.24rem !important;
+}
